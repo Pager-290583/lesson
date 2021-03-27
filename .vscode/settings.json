@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.cursorStyle": "line",
+    "auto-comment-blocks.singleLineBlockOnEnter": true,
+    "editor.cursorSmoothCaretAnimation": true
+}
